@@ -42,9 +42,7 @@ Estou focado(a) em aprender:
 ## 🤝 Contato e Conexões
 * **GitHub:** [@Meu Github](https://github.com/SeuUsuario)
 * **LinkedIn:** [@Meu LinkedIn](https://www.linkedin.com/in/Rafael-Garlant)
-
-Sinta-se à vontade para acompanhar meus estudos!
-
-* **GitHub:** [@SeuUsuario](https://github.com/SeuUsuario)
+    
+Sinta-se à vontade para acompanhar meus estudos
 
 Bons estudos para mim! E obrigado pela visita! 😄
