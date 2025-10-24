@@ -13,7 +13,6 @@ Todo o conteúdo aqui está organizado para refletir os diferentes tópicos e ex
 * **[`Aulas-Iniciais/`]**: Fundamentos e configuração básica.
 * **[`Componentes/`]**: Prática de criação e manipulação de componentes.
 * **[`Hooks/`]**: Exercícios e implementações de `useState`, `useEffect`, etc.
-* **[`Outros-Topicos/`]**: Conteúdo mais avançado ou específico.
 
 ---
 
