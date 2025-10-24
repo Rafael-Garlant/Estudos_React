@@ -21,10 +21,12 @@ Todo o conteúdo aqui está organizado para refletir os diferentes tópicos e ex
 
 Os exercícios neste repositório utilizam as seguintes tecnologias:
 
-* **React** (com Create React App ou Vite)
-* **JavaScript (ES6+)**
-* **HTML5 & CSS3**
-* **Git & GitHub** para versionamento e acompanhamento.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Além disso, uso **Git & GitHub** para versionamento e acompanhamento do progresso.
 
 ---
 
