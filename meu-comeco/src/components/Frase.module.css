@@ -1,0 +1,13 @@
+.fraseContainer{
+  border: 2px solid #000;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: aliceblue;
+}
+
+
+.fraseContent{
+  font-size: 18px;
+  color: #333;
+  background-color: aliceblue;
+}
